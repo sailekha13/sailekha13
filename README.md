@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sailekha13&label=Profile%20views&color=0e75b6&style=flat)
 
-# Hi there 👋, I'm Sailekha Gurrapu
+# Hi there 👋, I'm Sailekha G
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+Kafka+%7C+AWS;Cloud+%26+Microservices+Enthusiast;Content+Creator+%F0%9F%8E%A5+%7C+Tech+Blogger+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
 
